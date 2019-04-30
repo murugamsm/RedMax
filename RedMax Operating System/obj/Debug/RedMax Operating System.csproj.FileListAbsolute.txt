@@ -1,0 +1,14 @@
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.exe.config
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.exe
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.pdb
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.csprojAssemblyReference.cache
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.csproj.CoreCompileInputs.cache
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.exe
+E:\RedMax Applications\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.pdb
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.exe.config
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.exe
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\bin\Debug\RedMax Operating System.pdb
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.csprojAssemblyReference.cache
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.csproj.CoreCompileInputs.cache
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.exe
+E:\redmax-latest\c#\RedMax Operating System\RedMax Operating System\obj\Debug\RedMax Operating System.pdb

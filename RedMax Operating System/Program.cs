@@ -210,7 +210,17 @@ namespace RedMax_Operating_System
         }
         static void redmax_build()
         {
-
+			Console.Clear();
+			Console.WriteLine("╔═══════════════════ RedMax Build Info ═══════════════════╗");
+			Console.WriteLine("║              RedMax Release Build is 0.01a              ║");
+			Console.WriteLine("║        You are currently using RedMax Build 0.01b       ║");
+			Console.WriteLine("║ Original GitHub Repo : www.github.com/indigoajax/redmax ║");
+			Console.WriteLine("║              This is open-source software               ║");
+			Console.WriteLine("╚═════ RedMax Shell Generation I ═════════════════════════╝");
+			Console.WriteLine();
+			Console.WriteLine("Press any key to return to the Desktop");
+			Console.ReadKey();
+			desktop();
         }
         #endregion
         #region RedMax "Start Screen"

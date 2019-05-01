@@ -24,7 +24,7 @@ Windows 10 should cover that, and most laptops have 2GB RAM, and Windows 8, 8.1 
 The RedMax Build System will increment everytime there is a new feature added or a bug fix. Example : Build 0.01a --> 0.01b. If there is a complete redesign, then the first digit will increment. Example : Build 0.01a --> Build 1.01a
 
 ## Contact Us
-You can contact us through the RedMax Project Email Address (This is not my personal email) : redmaxproject@gmail.com
+You can contact us through the RedMax Project Email Address (This is not my personal email) : redmaxcontact@gmail.com
 Or you can join the discussion on our Discord Server : https://discord.gg/9HFqkm
 Or you can follow us on Twitter : @redmax_project
 
